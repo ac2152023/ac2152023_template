@@ -152,7 +152,7 @@ To run the container locally:
 
 
 **Deployment Container**
-This container helps manage building and deployeing all our app containers. The deployment is to GCp and all docker images go to GCR. 
+This container helps manage building and deployeing all our app containers. The deployment is to GCP and all docker images go to GCR. 
 
 To run the container locally:
 - Open a terminal and go to the location where `awesome-app/src/deployment`
