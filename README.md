@@ -1,8 +1,5 @@
 AC215 - \<Project Title>
 ==============================
-### Demo Video 
-* \<Link Here>
-
 ### Presentation  Video
 * \<Link Here>
 
